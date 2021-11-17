@@ -9,9 +9,7 @@ All Endpoints should return some raw json data (except for the page redirects).
 
 While the API is in beta, we will offer it as a free service and will not be charging any money. When we transition out of beta, we will offer it as a paid service. We suggest signing up for a free account to take advantage of our API and additional offers [Sign Up](https://www.abyiss.com/login).
 
-If you have any problems with this library, please open an issue request on [Github](https://github.com/Abyiss/Client-http/issues). To find more information about Abyiss please visit [Abyiss.com](https://www.abyiss.com/). 
-
-For any additional support please email us at [contact@abyiss.com](mailto:contact@abyiss.com).
+If you have any problems with this library, please open an issue request on [Github](https://github.com/Abyiss/Client-http/issues). To find more information about Abyiss please visit [Abyiss.com](https://www.abyiss.com/). For any additional support please email us at [contact@abyiss.com](mailto:contact@abyiss.com).
 
 
 # Getting Started
