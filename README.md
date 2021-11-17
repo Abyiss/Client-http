@@ -12,13 +12,14 @@ For any additional support please email us at [contact@abyiss.com](mailto:contac
 
 # Getting Started
 
-Currently to ping our API you can use the following URL endpoint: 
+Our base URL endpoint: 
+NOTE: This base url with no appened routes/endpoints will redirect to our home page
 
-### [http://devtestapi-us-east-2-cx2-5a0fbb3e5a034dabbd5b291bec1210c6-0000.us-east.containers.appdomain.cloud/](http://devtestapi-us-east-2-cx2-5a0fbb3e5a034dabbd5b291bec1210c6-0000.us-east.containers.appdomain.cloud/ping)
+### [http://devtestapi-us-east-2-cx2-5a0fbb3e5a034dabbd5b291bec1210c6-0000.us-east.containers.appdomain.cloud/](http://devtestapi-us-east-2-cx2-5a0fbb3e5a034dabbd5b291bec1210c6-0000.us-east.containers.appdomain.cloud/)
 
 To learn more about our other endpoints check out our website [Abyiss.com/Documentation](https://abyiss.com/documentation) or continue reading below:
 
-## Endpoints
+## Endpoints and Routes
 
 ![Endpoint](https://img.shields.io/badge/-get-green) ***/ping***
 * Returns a 200 status code upon successful query.
