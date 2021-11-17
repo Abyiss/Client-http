@@ -2,7 +2,7 @@
 
 LAST UPDATED: 11/17/2021
 
-***At the current time, while Abyiss is under further development, this is the ONLY client documentation that is supported by Abyiss.***
+***At the current time, while Abyiss is under further development, this is the ONLY client documentation that is in working order.***
 
 This documentation encompasses the raw HTTP Endpoints for the Abyiss API.
 All Endpoints should return some raw json data (except for the page redirects).
