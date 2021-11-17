@@ -1,6 +1,7 @@
 # Client-http
 
 LAST UPDATED: 11/17/2021
+
 ***At the current time, while Abyiss is under further development, this is the ONLY client documentation that is supported by Abyiss.***
 
 This documentation encompasses the raw HTTP Endpoints for the Abyiss API.
