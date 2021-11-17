@@ -1,10 +1,10 @@
 # Client-http
 
 LAST UPDATED: 11/17/2021
+***At the current time, while Abyiss is under further development, this is the ONLY client documentation that is supported by Abyiss.***
 
-Raw HTTP Endpoints for Abyiss API
-
-All Endpoints should return some raw json data (except for the page redirects)
+This documentation encompasses the raw HTTP Endpoints for the Abyiss API.
+All Endpoints should return some raw json data (except for the page redirects).
 
 While the API is in beta, we will offer it as a free service and will not be charging any money. When we transition out of beta, we will offer it as a paid service. We suggest signing up for a free account to take advantage of our API and additional offers [Sign Up](https://www.abyiss.com/login).
 
