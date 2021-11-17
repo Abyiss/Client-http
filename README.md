@@ -1,4 +1,7 @@
 # Client-http
+
+LAST UPDATED: 11/17/2021
+
 Raw HTTP Endpoints for Abyiss API
 
 All Endpoints should return some raw json data (except for the page redirects)
