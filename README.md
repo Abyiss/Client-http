@@ -1,6 +1,6 @@
 # Client-http
 
-LAST UPDATED: 11/17/2021
+LAST UPDATED: 12/06/2021
 
 ***At the current time, while Abyiss is under further development, this is the ONLY Abyiss client documentation that is in working order.***
 
@@ -17,7 +17,7 @@ If you have any problems with this library, please open an issue request on [Git
 Our base URL endpoint: 
 NOTE: This base url with no appened routes/endpoints will redirect to our home page
 
-### [http://devtestapi-us-east-2-cx2-5a0fbb3e5a034dabbd5b291bec1210c6-0000.us-east.containers.appdomain.cloud/](http://devtestapi-us-east-2-cx2-5a0fbb3e5a034dabbd5b291bec1210c6-0000.us-east.containers.appdomain.cloud/)
+### [http://api.abyiss.tech/](http://api.abyiss.tech/)
 
 To learn more about our other endpoints check out our website [Abyiss.com/Documentation](https://abyiss.com/documentation) or continue reading below:
 
