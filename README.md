@@ -24,6 +24,7 @@ To learn more about our other endpoints check out our website [Abyiss.com/Docume
 ## Endpoints and Routes
 
 ![Endpoint](https://img.shields.io/badge/-get-green) ***/ping***
+* Example URL: http://api.abyiss.tech/ping
 * Returns a 200 status code upon successful query.
 * Returns a static object:
   - **ping**: "Hello Abyiss"
