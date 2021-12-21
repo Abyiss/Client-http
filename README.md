@@ -1,6 +1,6 @@
 # Client-http
 
-LAST UPDATED: 12/06/2021
+LAST UPDATED: 12/21/2021
 
 ***At the current time, while Abyiss is under further development, this is the ONLY Abyiss client documentation that is in working order.***
 
@@ -17,14 +17,14 @@ If you have any problems with this library, please open an issue request on [Git
 Our base URL endpoint: 
 NOTE: This base url with no appened routes/endpoints will redirect to our home page
 
-### [http://api.abyiss.tech/](http://api.abyiss.tech/)
+### [http://api.abyiss.com/](http://api.abyiss.com/)
 
-To learn more about our other endpoints check out our website [Abyiss.com/Documentation](https://abyiss.com/documentation) or continue reading below:
+To learn more about our other endpoints check out our website [docs.abyiss.com/](https://docs.abyiss.com/) or continue reading below:
 
 ## Endpoints and Routes
 
 ![Endpoint](https://img.shields.io/badge/-get-green) ***/ping***
-* Example URL: http://api.abyiss.tech/ping
+* Example URL: http://api.abyiss.com/ping
 * Returns a 200 status code upon successful query.
 * Returns a static object:
   - **ping**: "Hello Abyiss"
